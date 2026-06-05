@@ -45,15 +45,15 @@
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Education</kbd></td>
-<td valign="top">Computer Engineering @ Saraswati College</td>
+<td valign="top">3rd Year Computer Engineering @ Saraswati College of Engineering</td>
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Location</kbd></td>
 <td valign="top">Navi Mumbai, India 🇮🇳</td>
 </tr>
 <tr>
-<td valign="top" align="center"><kbd>Mission</kbd></td>
-<td valign="top"><i>Equal access to growth and opportunity for every student.</i></td>
+<td valign="top" align="center"><kbd>Focus</kbd></td>
+<td valign="top">Full-Stack Machine Learning &amp; AI Developer</td>
 </tr>
 </table>
 </div>
