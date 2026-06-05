@@ -15,12 +15,20 @@
   &nbsp;&nbsp;
   <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
+
+
+
+<br/>
+
 ---
+<br/>
 
 <div align="center">
 
+<h2 align="center">
   <img src="./icons/architect.svg" width="35" align="absmiddle" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=ffffff&fontSize=28" align="absmiddle" />
+  &nbsp;The Architect Behind the Code
+</h2>
 
 <table width="100%">
 <tr>
