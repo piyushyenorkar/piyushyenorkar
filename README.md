@@ -25,27 +25,23 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=c471ed&fontSize=26" />
 
-<table width="100%">
+<table width="80%">
 <tr>
-<td colspan="2" width="60%" valign="top">
+<td colspan="2">
 <h3 align="center">👨‍💻 Core Identity</h3>
-</td>
-<td width="40%" valign="top">
-<h3 align="center">🌟 Major Achievements</h3>
 </td>
 </tr>
 <tr>
-<td width="15%" valign="top" align="center"><kbd>Name</kbd></td>
-<td width="45%" valign="top"><b>Piyush Yenorkar</b></td>
-<td width="40%" valign="middle" rowspan="4">
-<img src="./icons/trophy.svg" width="30" align="center"/> <b>1st Place in Axion Hackathon</b>
-<br/><br/><br/>
-<img src="./icons/palette.svg" width="30" align="center"/> <b>Multi-Gold Medalist in Art &amp; Sketching</b>
-</td>
+<td width="25%" valign="top" align="center"><kbd>Name</kbd></td>
+<td width="75%" valign="top"><b>Piyush Yenorkar</b></td>
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Education</kbd></td>
-<td valign="top">3rd Year Computer Engineering @ Saraswati College of Engineering</td>
+<td valign="top">2nd Year Comps</td>
+</tr>
+<tr>
+<td valign="top" align="center"><kbd>College</kbd></td>
+<td valign="top">Saraswati College of Engineering</td>
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Location</kbd></td>
