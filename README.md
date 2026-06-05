@@ -27,25 +27,33 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td colspan="2" width="60%" valign="top">
 <h3 align="center">👨‍💻 Core Identity</h3>
-<p>
-<kbd>Name</kbd> Piyush Yenorkar<br/><br/>
-<kbd>Education</kbd> Computer Engineering @ Saraswati College<br/><br/>
-<kbd>Location</kbd> Navi Mumbai, India 🇮🇳<br/><br/>
-<kbd>Focus</kbd> Co-leading STARCY &amp; Building PLUTO<br/><br/>
-<kbd>Mission</kbd> <i>Equal access to growth and opportunity for every student.</i>
-</p>
 </td>
 <td width="40%" valign="top">
 <h3 align="center">🌟 Major Achievements</h3>
-<br/>
-<p>
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top" align="center"><kbd>Name</kbd></td>
+<td width="45%" valign="top"><b>Piyush Yenorkar</b></td>
+<td width="40%" valign="middle" rowspan="4">
 <img src="./icons/trophy.svg" width="30" align="center"/> <b>1st Place in Axion Hackathon</b>
 <br/><br/><br/>
 <img src="./icons/palette.svg" width="30" align="center"/> <b>Multi-Gold Medalist in Art &amp; Sketching</b>
-</p>
 </td>
+</tr>
+<tr>
+<td valign="top" align="center"><kbd>Education</kbd></td>
+<td valign="top">Computer Engineering @ Saraswati College</td>
+</tr>
+<tr>
+<td valign="top" align="center"><kbd>Location</kbd></td>
+<td valign="top">Navi Mumbai, India 🇮🇳</td>
+</tr>
+<tr>
+<td valign="top" align="center"><kbd>Mission</kbd></td>
+<td valign="top"><i>Equal access to growth and opportunity for every student.</i></td>
 </tr>
 </table>
 </div>
