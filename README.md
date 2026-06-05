@@ -25,7 +25,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=c471ed&fontSize=26" />
 
-<table width="80%">
+<table width="100%">
 <tr>
 <td colspan="2">
 <h3 align="center">👨‍💻 Core Identity</h3>
