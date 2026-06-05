@@ -19,10 +19,8 @@
 
 <div align="center">
 
-<h2 align="center">
   <img src="./icons/architect.svg" width="35" align="absmiddle" />
-  &nbsp;The Architect Behind the Code
-</h2>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=ffffff&fontSize=28" align="absmiddle" />
 
 <table width="100%">
 <tr>
