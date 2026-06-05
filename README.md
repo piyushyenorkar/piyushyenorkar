@@ -13,7 +13,7 @@
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/fakeprofile"><img src="./icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/fakeprofile"><img src="./icons/x_transparent.png" width="40" height="40" alt="X" /></a>
+  <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
 
 
