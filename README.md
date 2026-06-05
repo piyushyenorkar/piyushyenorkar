@@ -9,14 +9,14 @@
 <br/>
 
 <div>
-  <a href="mailto:fake@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-  <a href="https://linkedin.com/in/fakeprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-  <a href="https://twitter.com/fakeprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white"/></a>
+  <a href="mailto:fake@example.com"><img src="./icons/email.svg" width="40" height="40" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/fakeprofile"><img src="./icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=piyushyenorkar&amp;style=for-the-badge&amp;color=c471ed&amp;label=PROFILE+VIEWS&amp;labelColor=0d1117" />
 
 <br/>
 
