@@ -9,11 +9,11 @@
 <br/>
 
 <div>
-  <a href="mailto:fake@example.com"><img src="./icons/email.svg" width="40" height="40" alt="Email" /></a>
+  <a href="mailto:fake@example.com"><img src="./icons/image%20copy.png" width="40" height="40" alt="Email" /></a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/fakeprofile"><img src="./icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
+  <a href="https://twitter.com/fakeprofile"><img src="./icons/x_transparent.png" width="40" height="40" alt="X" /></a>
 </div>
 
 
