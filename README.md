@@ -16,17 +16,26 @@
   <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
 
+<br/>
 
+---
+
+<br/>
 
 <div align="center">
-  <img src="./icons/architect.svg" width="45" style="vertical-align: middle;" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=ffffff&fontSize=28" style="vertical-align: middle;" />
+
+<h2 align="center">
+  <img src="./icons/architect.svg" width="35" align="absmiddle" />
+  &nbsp;The Architect Behind the Code
+</h2>
 
 <table width="100%">
 <tr>
 <td colspan="2">
-<br/>
-<h3 align="center"><img src="./icons/identity.svg" width="30" style="vertical-align: middle;" /> &nbsp;Core Identity</h3>
+<h3 align="center">
+  <img src="./icons/identity.svg" width="28" align="absmiddle" />
+  &nbsp;Core Identity
+</h3>
 </td>
 </tr>
 <tr>
