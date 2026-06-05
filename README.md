@@ -23,57 +23,52 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=c471ed&fontSize=26" />
-
 <table border="0" style="border: none; background-color: transparent;">
-  <tr>
-    <td width="55%" align="left" valign="top" style="border: none;">
-      <h3 style="margin-bottom: 0;">👨‍💻 Core Identity</h3>
-      <hr/>
-      <table border="0">
-        <tr>
-          <td valign="top"><kbd>Name</kbd></td>
-          <td valign="top"><b>Piyush Yenorkar</b></td>
-        </tr>
-        <tr>
-          <td valign="top"><kbd>Education</kbd></td>
-          <td valign="top">Computer Engineering @ Saraswati College</td>
-        </tr>
-        <tr>
-          <td valign="top"><kbd>Location</kbd></td>
-          <td valign="top">Navi Mumbai, India 🇮🇳</td>
-        </tr>
-        <tr>
-          <td valign="top"><kbd>Focus</kbd></td>
-          <td valign="top">Co-leading STARCY &amp; Building PLUTO</td>
-        </tr>
-        <tr>
-          <td valign="top"><kbd>Mission</kbd></td>
-          <td valign="top"><i>Equal access to growth and opportunity for every student.</i></td>
-        </tr>
-      </table>
-    </td>
-    
-    <td width="5%" style="border: none;"></td>
-
-    <td width="40%" align="left" valign="top" style="border: none;">
-      <h3 style="margin-bottom: 0;">🌟 Major Achievements</h3>
-      <hr/>
-      <table border="0">
-        <tr>
-          <td valign="middle" align="center"><img src="./icons/trophy.svg" width="38" height="38" /></td>
-          <td valign="middle"><b>1st Place in Axion Hackathon</b></td>
-        </tr>
-        <tr>
-          <td valign="middle" align="center"><img src="./icons/palette.svg" width="38" height="38" /></td>
-          <td valign="middle"><b>Multi-Gold Medalist in Art &amp; Sketching</b></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td width="55%" align="left" valign="top" style="border: none;">
+<h3 style="margin-bottom: 0;">👨‍💻 Core Identity</h3>
+<hr/>
+<table border="0">
+<tr>
+<td valign="top"><kbd>Name</kbd></td>
+<td valign="top"><b>Piyush Yenorkar</b></td>
+</tr>
+<tr>
+<td valign="top"><kbd>Education</kbd></td>
+<td valign="top">Computer Engineering @ Saraswati College</td>
+</tr>
+<tr>
+<td valign="top"><kbd>Location</kbd></td>
+<td valign="top">Navi Mumbai, India 🇮🇳</td>
+</tr>
+<tr>
+<td valign="top"><kbd>Focus</kbd></td>
+<td valign="top">Co-leading STARCY &amp; Building PLUTO</td>
+</tr>
+<tr>
+<td valign="top"><kbd>Mission</kbd></td>
+<td valign="top"><i>Equal access to growth and opportunity for every student.</i></td>
+</tr>
 </table>
-
+</td>
+<td width="5%" style="border: none;"></td>
+<td width="40%" align="left" valign="top" style="border: none;">
+<h3 style="margin-bottom: 0;">🌟 Major Achievements</h3>
+<hr/>
+<table border="0">
+<tr>
+<td valign="middle" align="center"><img src="./icons/trophy.svg" width="38" height="38" /></td>
+<td valign="middle"><b>1st Place in Axion Hackathon</b></td>
+</tr>
+<tr>
+<td valign="middle" align="center"><img src="./icons/palette.svg" width="38" height="38" /></td>
+<td valign="middle"><b>Multi-Gold Medalist in Art &amp; Sketching</b></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
