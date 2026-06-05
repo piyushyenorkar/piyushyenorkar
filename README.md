@@ -30,19 +30,33 @@
 <tr>
 <td align="center" style="border: none;">
 
-```json
-{
-  "name": "Piyush Yenorkar",
-  "education": "Computer Engineering @ Saraswati College of Engineering",
-  "location": "Navi Mumbai, India 🇮🇳",
-  "current_focus": "Co-leading Team STARCY & Building PLUTO",
-  "mission": "Equal access to growth and opportunity for every student.",
-  "achievements": [
-    "🏆 1st Place Hackathon Winner (₹3000 Prize)",
-    "🥇 Multi-Gold Medalist in Art & Sketching"
-  ]
-}
-```
+<table align="center" width="800">
+  <tr>
+    <td align="left">
+      <h3 align="center">👨‍💻 Core Identity</h3>
+      <b>Name:</b> Piyush Yenorkar<br/>
+      <b>Education:</b> Computer Engineering @ Saraswati College of Engineering<br/>
+      <b>Location:</b> Navi Mumbai, India 🇮🇳<br/>
+      <b>Current Focus:</b> Co-leading Team STARCY & Building PLUTO<br/>
+      <b>Mission:</b> <i>Equal access to growth and opportunity for every student.</i>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="800">
+  <tr>
+    <td align="left">
+      <h3 align="center">🌟 Major Achievements</h3>
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp; <img src="./icons/trophy.svg" width="20" height="20" align="center"/> &nbsp; <b>1st Place in Axion Hackathon</b>
+      <br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp; <img src="./icons/palette.svg" width="20" height="20" align="center"/> &nbsp; <b>Multi-Gold Medalist in Art & Sketching</b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </td>
 </tr>
