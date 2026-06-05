@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
   <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
-----------------------------------
+--------------------------
 <div align="center">
 
 <h2 align="center">
