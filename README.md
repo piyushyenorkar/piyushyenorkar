@@ -32,8 +32,8 @@
 </td>
 </tr>
 <tr>
-<td width="25%" valign="top" align="center"><kbd>Name</kbd></td>
-<td width="75%" valign="top"><b>Piyush Yenorkar</b></td>
+<td width="300" valign="top" align="center"><kbd>Name</kbd></td>
+<td width="500" valign="top"><b>Piyush Yenorkar</b></td>
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Education</kbd></td>
