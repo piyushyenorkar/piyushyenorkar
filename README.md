@@ -15,13 +15,7 @@
   &nbsp;&nbsp;
   <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
-
-
-
-<br/>
-
 ---
-<br/>
 
 <div align="center">
 
