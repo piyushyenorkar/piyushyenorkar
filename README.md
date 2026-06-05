@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Waving Header (Aurora Aesthetic) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=Piyush%20Yenorkar&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20Artist%20%7C%20Innovator&descAlignY=55&descSize=20" width="100%"/>
+<!-- Waving Header (Pink/Orange/Red Mix) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF416C,100:FF4B2B&amp;height=200&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Developer%20%7C%20Artist%20%7C%20Innovator&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=12C2E9&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Artist+%26+Creative+Thinker+%F0%9F%8E%A8;Building+Technology+for+Students+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4000&amp;pause=1000&amp;color=FF416C&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Artist+%26+Creative+Thinker+%F0%9F%8E%A8;Building+Technology+for+Students+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="mailto:fake@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/fakeprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/fakeprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:fake@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/fakeprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://twitter.com/fakeprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=piyushyenorkar&style=for-the-badge&color=c471ed&label=PROFILE+VIEWS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=piyushyenorkar&amp;style=for-the-badge&amp;color=c471ed&amp;label=PROFILE+VIEWS&amp;labelColor=0d1117" />
 
 <br/><br/>
 
@@ -53,24 +53,24 @@
 <p><i>Technologies I use to bring ideas to life.</i></p>
 
 **Frontend & Web**<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
 
 <br/><br/>
 
 **Backend & Data**<br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
 
 <br/><br/>
 
 **AI & Machine Learning**<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
 
 <br/>
 
@@ -84,15 +84,15 @@
       <h3>🪐 PLUTO</h3>
       <p><i>An AI-powered campus platform connecting students to opportunities, teams, and events at scale. Built with Team STARCY.</i></p>
       <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Integration-00DFD8?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Integration-00DFD8?style=flat-square&amp;logo=openai&amp;logoColor=white" />
     </td>
     <td align="center" valign="top" width="50%" style="border: none;">
       <h3>🎨 Canvas & Code</h3>
       <p><i>Blending my passion for art and technology. A showcase of my award-winning sketches and digital designs.</i></p>
       <br/>
-      <img src="https://img.shields.io/badge/Design-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Creativity-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+      <img src="https://img.shields.io/badge/Design-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Creativity-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white" />
     </td>
   </tr>
 </table>
@@ -103,16 +103,16 @@
 
 ### 📈 *GitHub Analytics*
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushyenorkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="190" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&theme=tokyonight&hide_border=true" height="190" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="190" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true" height="190" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushyenorkar&theme=tokyo-night&area=true&hide_border=true" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushyenorkar&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" width="800" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=piyushyenorkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=piyushyenorkar&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
 
 <br/>
 
@@ -120,11 +120,11 @@
 
 ### 🌱 *Current Focus*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F64F59&center=true&vCenter=true&width=600&lines=Mastering+Full+Stack+Architecture;Exploring+Generative+AI+Models;Building+scalable+ed-tech+solutions;Painting+my+next+masterpiece+%F0%9F%8E%A8" alt="Current Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=FF416C&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Mastering+Full+Stack+Architecture;Exploring+Generative+AI+Models;Building+scalable+ed-tech+solutions;Painting+my+next+masterpiece+%F0%9F%8E%A8" alt="Current Focus" />
 
 <br/><br/>
 
-<!-- Waving Footer (Aurora Aesthetic) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=120&section=footer" width="100%"/>
+<!-- Waving Footer (Pink/Orange/Red Mix) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4B2B,100:FF416C&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
