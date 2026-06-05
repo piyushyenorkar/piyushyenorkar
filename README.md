@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b5e20,100:81c784&amp;height=200&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Developer%20%7C%20Artist%20%7C%20Innovator&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4000&amp;pause=1000&amp;color=81C784&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Artist+%26+Creative+Thinker+%F0%9F%8E%A8;Building+Technology+for+Students+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Full+Stack+Engineer;AI+Developer;Creative+Technologist;Building+Ed-Tech+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -132,7 +132,7 @@
 
 ### 🌱 *Current Focus*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=81C784&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Mastering+Full+Stack+Architecture;Exploring+Generative+AI+Models;Building+scalable+ed-tech+solutions;Painting+my+next+masterpiece+%F0%9F%8E%A8" alt="Current Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Architecting+Scalable+Systems;Developing+Generative+AI+Models;Building+Ed-Tech+Platforms;Digital+Arts+%26+Design" alt="Current Focus" />
 
 <br/>
 
