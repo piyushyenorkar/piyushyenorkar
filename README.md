@@ -18,17 +18,15 @@
 
 
 
-<br/>
-
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=c471ed&fontSize=26" />
+  <img src="./icons/architect.svg" width="45" style="vertical-align: middle;" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=ffffff&fontSize=28" style="vertical-align: middle;" />
 
 <table width="100%">
 <tr>
 <td colspan="2">
-<h3 align="center">👨‍💻 Core Identity</h3>
+<br/>
+<h3 align="center"><img src="./icons/identity.svg" width="30" style="vertical-align: middle;" /> &nbsp;Core Identity</h3>
 </td>
 </tr>
 <tr>
