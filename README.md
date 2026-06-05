@@ -24,48 +24,27 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=The%20Architect%20Behind%20the%20Code&fontColor=c471ed&fontSize=26" />
-<table border="0" style="border: none; background-color: transparent;">
+
+<table width="100%">
 <tr>
-<td width="55%" align="left" valign="top" style="border: none;">
-<h3 style="margin-bottom: 0;">👨‍💻 Core Identity</h3>
-<hr/>
-<table border="0">
-<tr>
-<td valign="top"><kbd>Name</kbd></td>
-<td valign="top"><b>Piyush Yenorkar</b></td>
-</tr>
-<tr>
-<td valign="top"><kbd>Education</kbd></td>
-<td valign="top">Computer Engineering @ Saraswati College</td>
-</tr>
-<tr>
-<td valign="top"><kbd>Location</kbd></td>
-<td valign="top">Navi Mumbai, India 🇮🇳</td>
-</tr>
-<tr>
-<td valign="top"><kbd>Focus</kbd></td>
-<td valign="top">Co-leading STARCY &amp; Building PLUTO</td>
-</tr>
-<tr>
-<td valign="top"><kbd>Mission</kbd></td>
-<td valign="top"><i>Equal access to growth and opportunity for every student.</i></td>
-</tr>
-</table>
+<td width="60%" valign="top">
+<h3 align="center">👨‍💻 Core Identity</h3>
+<p>
+<kbd>Name</kbd> Piyush Yenorkar<br/><br/>
+<kbd>Education</kbd> Computer Engineering @ Saraswati College<br/><br/>
+<kbd>Location</kbd> Navi Mumbai, India 🇮🇳<br/><br/>
+<kbd>Focus</kbd> Co-leading STARCY &amp; Building PLUTO<br/><br/>
+<kbd>Mission</kbd> <i>Equal access to growth and opportunity for every student.</i>
+</p>
 </td>
-<td width="5%" style="border: none;"></td>
-<td width="40%" align="left" valign="top" style="border: none;">
-<h3 style="margin-bottom: 0;">🌟 Major Achievements</h3>
-<hr/>
-<table border="0">
-<tr>
-<td valign="middle" align="center"><img src="./icons/trophy.svg" width="38" height="38" /></td>
-<td valign="middle"><b>1st Place in Axion Hackathon</b></td>
-</tr>
-<tr>
-<td valign="middle" align="center"><img src="./icons/palette.svg" width="38" height="38" /></td>
-<td valign="middle"><b>Multi-Gold Medalist in Art &amp; Sketching</b></td>
-</tr>
-</table>
+<td width="40%" valign="top">
+<h3 align="center">🌟 Major Achievements</h3>
+<br/>
+<p>
+<img src="./icons/trophy.svg" width="30" align="center"/> <b>1st Place in Axion Hackathon</b>
+<br/><br/><br/>
+<img src="./icons/palette.svg" width="30" align="center"/> <b>Multi-Gold Medalist in Art &amp; Sketching</b>
+</p>
 </td>
 </tr>
 </table>
