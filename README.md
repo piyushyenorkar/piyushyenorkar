@@ -124,7 +124,7 @@
 ### 📈 *GitHub Analytics*
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="190" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="190" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true" height="190" />
 </div>
 
@@ -134,7 +134,9 @@
 
 <br/>
 
+<!-- Temporarily hidden: The official github-profile-trophy server is currently down due to traffic limits. 
 <img src="https://github-profile-trophy.vercel.app/?username=piyushyenorkar&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
+-->
 
 <br/>
 
