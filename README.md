@@ -100,10 +100,10 @@
 
 <h2 align="center"><img src="./icons/projects.svg?v=2" width="30" align="center" /> Featured Projects</h2>
 
-<table width="100%">
+<table width="800" align="center">
   <tr>
-    <td valign="top" width="100%">
-      <div align="left">
+    <td valign="top" align="center">
+      <div align="center">
         <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> PLUTO</h2>
         <sup><b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b></sup>
         <br/><br/>
@@ -123,10 +123,10 @@
 
 <br/>
 
-<table width="100%">
+<table width="800" align="center">
   <tr>
-    <td valign="top" width="100%">
-      <div align="left">
+    <td valign="top" align="center">
+      <div align="center">
         <h2><img src="./assets/safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
         <sup><b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b></sup>
         <br/><br/>
@@ -146,10 +146,10 @@
 
 <br/>
 
-<table width="100%">
+<table width="800" align="center">
   <tr>
-    <td valign="top" width="100%">
-      <div align="left">
+    <td valign="top" align="center">
+      <div align="center">
         <h2><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <sup><b>AI PROJECT MANAGER</b></sup>
         <br/><br/>
