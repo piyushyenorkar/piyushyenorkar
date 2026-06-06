@@ -104,7 +104,7 @@
   <tr>
     <td valign="top" align="center">
       <div align="center">
-        <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> PLUTO</h2>
+        <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> Pluto Campus</h2>
         <b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b><br/><br/>
         AI-driven campus innovation platform. Centralizes event discovery, peer collaboration, and portfolio building.<br/><br/>
         <img src="https://img.shields.io/badge/-HTML%2FCSS%2FJS-21262d?style=for-the-badge&logo=html5" />
