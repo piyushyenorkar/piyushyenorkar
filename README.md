@@ -136,7 +136,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushyenorkar&amp;bg_color=0d1117&amp;color=00DFD8&amp;line=81c784&amp;point=00DFD8&amp;area=true&amp;hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushyenorkar&amp;bg_color=0d1117&amp;color=ffffff&amp;title_color=ffffff&amp;line=81c784&amp;point=00DFD8&amp;area=true&amp;hide_border=true" width="100%" />
 
 <br/>
 
