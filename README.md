@@ -100,11 +100,11 @@
 
 <h2 align="center"><img src="./icons/projects.svg?v=2" width="30" align="center" /> Featured Projects</h2>
 
-<table width="700" align="center">
+<table width="750" align="center">
   <tr>
     <td valign="top" align="center">
       <div align="center">
-        <img src="./assets/spacer.svg" width="700" height="1" />
+        <img src="./assets/spacer.svg" width="750" height="1" />
         <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> Pluto Campus</h2>
         <b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b><br/><br/>
         AI-driven campus innovation platform.<br/>Centralizes event discovery, peer collaboration, and portfolio building.<br/><br/>
@@ -118,28 +118,11 @@
     </td>
   </tr>
 </table>
-<table width="700" align="center">
+<table width="750" align="center">
   <tr>
     <td valign="top" align="center">
       <div align="center">
-        <img src="./assets/spacer.svg" width="700" height="1" />
-        <h2><img src="./assets/safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
-        <b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b><br/><br/>
-        A smart safety platform providing real-time support,<br/>risk detection, and instant connectivity for personal security.<br/><br/>
-        <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/-LumaAI%20%2F%20GroqAI%20%2F%20Leaflet-21262d?style=for-the-badge&logo=leaflet" />
-        <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio" />
-        <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" /><br/><br/>
-        <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-<table width="700" align="center">
-  <tr>
-    <td valign="top" align="center">
-      <div align="center">
-        <img src="./assets/spacer.svg" width="700" height="1" />
+        <img src="./assets/spacer.svg" width="750" height="1" />
         <h2><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team<br/>and predicts failures before they happen.<br/><br/>
@@ -147,6 +130,23 @@
         <img src="https://img.shields.io/badge/-Hindsight-21262d?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/-GroqAI-21262d?style=for-the-badge&logo=openai" />
         <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" /><br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+<table width="750" align="center">
+  <tr>
+    <td valign="top" align="center">
+      <div align="center">
+        <img src="./assets/spacer.svg" width="750" height="1" />
+        <h2><img src="./assets/safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
+        <b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b><br/><br/>
+        A smart safety platform providing real-time support,<br/>risk detection, and instant connectivity for personal security.<br/><br/>
+        <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-LumaAI%20%2F%20GroqAI%20%2F%20Leaflet-21262d?style=for-the-badge&logo=leaflet" />
+        <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio" />
+        <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" /><br/><br/>
         <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
       </div>
     </td>
