@@ -60,12 +60,12 @@
 
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
-<h3 align="center"><img src="./icons/fullstack.svg" width="28" align="absmiddle" /> Full Stack Development</h3>
+<h3 align="center"><img src="./icons/fullstack.svg" width="32" align="absmiddle" /> Full Stack Development</h3>
 
 <table width="100%" style="border: none; background-color: transparent;">
 <tr style="border: none;">
 <td width="50%" valign="top" align="center" style="border: none;">
-<b><img src="./icons/frontend.svg" width="20" align="absmiddle" /> Frontend &amp; Web</b><br/><br/>
+<b><img src="./icons/frontend.svg" width="24" align="absmiddle" /> Frontend &amp; Web</b><br/><br/>
 <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/-Vite-21262d?style=for-the-badge&logo=vite" />
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
 </td>
 <td width="50%" valign="top" align="center" style="border: none;">
-<b><img src="./icons/backend.svg" width="20" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
+<b><img src="./icons/backend.svg" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-21262d?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/-PostgreSQL-21262d?style=for-the-badge&logo=postgresql" />
@@ -87,7 +87,7 @@
 
 <br/>
 
-<b><img src="./icons/aiml.svg" width="20" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
+<b><img src="./icons/aiml.svg" width="24" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
 <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
 </div>
