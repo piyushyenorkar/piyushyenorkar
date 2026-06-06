@@ -123,10 +123,16 @@
 
 ### 📈 *GitHub Analytics*
 
-<div>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;theme=tokyonight&amp;hide_border=true" height="190" />
-</div>
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyushyenorkar&amp;bg_color=0d1117&amp;title_color=00DFD8&amp;text_color=ffffff&amp;icon_color=00C4CC&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;background=0d1117&amp;stroke=00DFD8&amp;ring=00C4CC&amp;fire=00DFD8&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00C4CC&amp;sideLabels=00C4CC&amp;dates=8b949e&amp;hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
