@@ -59,19 +59,19 @@
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
 <b>🎨 Frontend &amp; Web</b><br/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" />&nbsp;
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3" />
 <br/><br/>
 <b>🗄️ Backend &amp; Data</b><br/>
-<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js" />&nbsp;
-<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=mysql" />
 <br/><br/>
 <b>🧠 AI &amp; Machine Learning</b><br/>
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" />&nbsp;
-<img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python" />&nbsp;
+<img src="https://img.shields.io/badge/-Machine%20Learning-0d1117?style=for-the-badge&logo=scikit-learn" />
 </div>
 
 ---
