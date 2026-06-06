@@ -60,31 +60,36 @@
 
 <br/>
 
-### ⚙️ *My Tech Arsenal*
+<div align="center">
+<h2 align="center">⚙️ My Tech Arsenal</h2>
 
-<p><i>Technologies I use to bring ideas to life.</i></p>
-
-**Frontend & Web**<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
-
-<br/>
-
-**Backend & Data**<br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-
-<br/>
-
-**AI & Machine Learning**<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
-
-<br/>
+<table width="100%">
+<tr>
+<td width="300" align="right" valign="middle"><b>🎨 Frontend &amp; Web</b></td>
+<td width="500" valign="middle">
+  <img src="https://img.shields.io/badge/-Next.js-DAB4E5?style=flat&logo=next.js&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-React-AEC6CF?style=flat&logo=react&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-JavaScript-FDFD96?style=flat&logo=javascript&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-HTML5-FFB6C1?style=flat&logo=html5&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-CSS3-87CEEB?style=flat&logo=css3&logoColor=333333" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>🗄️ Backend &amp; Data</b></td>
+<td valign="middle">
+  <img src="https://img.shields.io/badge/-Node.js-B4E5A2?style=flat&logo=node.js&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-SQL-AEC6CF?style=flat&logo=mysql&logoColor=333333" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>🧠 AI &amp; Machine Learning</b></td>
+<td valign="middle">
+  <img src="https://img.shields.io/badge/-Python-FFD1A9?style=flat&logo=python&logoColor=333333" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-DAB4E5?style=flat&logo=scikit-learn&logoColor=333333" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
