@@ -123,6 +123,25 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
+        <h2><img src="./assets/NHAIFaceID.png" height="30" align="absmiddle" /> NHAIFaceID SDK</h2>
+        <b>OFFLINE FACIAL RECOGNITION &amp; LIVENESS DETECTION SDK FOR NHAI DATALAKE 3.0</b><br/><br/>
+        An offline facial recognition &amp; liveness detection SDK for NHAI field personnel,<br/>authenticating identities in zero-network zones in under 400ms on any mid-range Android device.<br/><br/>
+        <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
+        <img src="https://img.shields.io/badge/-TensorFlow%20Lite-21262d?style=for-the-badge&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/-SQLite-21262d?style=for-the-badge&logo=sqlite" /><br/><br/>
+        <a href="https://drive.google.com/drive/folders/1MVQ6WoE2i6ZTp-UetKztP7zJL0PlNaOj?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DRIVE-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+        &nbsp;
+        <a href="https://drive.google.com/file/d/1MR1tMub6dR4r21eTv1L24Khis-28H1-C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/APK-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+<table width="750" align="center">
+  <tr>
+    <td valign="top" align="center">
+      <div align="center">
+        <img src="./assets/spacer.svg" width="750" height="1" />
         <h2><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team<br/>and predicts failures before they happen.<br/><br/>
