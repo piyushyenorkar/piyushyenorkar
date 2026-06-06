@@ -60,7 +60,7 @@
 
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
-<h3 align="center"><img src="./icons/fullstack.svg?v=2" width="32" align="absmiddle" /> Full Stack Development</h3>
+<h3 align="center"><img src="./icons/fullstack.svg?v=3" width="32" align="absmiddle" /> Full Stack Development</h3>
 
 <table width="100%" style="border: none; background-color: transparent;">
 <tr style="border: none;">
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
 </td>
 <td width="50%" valign="top" align="center" style="border: none;">
-<b><img src="./icons/backend.svg?v=2" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
+<b><img src="./icons/backend.svg?v=3" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-21262d?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/-PostgreSQL-21262d?style=for-the-badge&logo=postgresql" />
