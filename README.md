@@ -96,7 +96,7 @@
 
 <br/>
 
-### 🚀 *Featured Projects*
+<h2 align="center"><img src="./icons/projects.svg" width="32" align="absmiddle" /> Featured Projects</h2>
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
@@ -121,7 +121,7 @@
 
 <br/>
 
-### 📈 *GitHub Analytics*
+<h2 align="center"><img src="./icons/analytics.svg" width="32" align="absmiddle" /> GitHub Analytics</h2>
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
