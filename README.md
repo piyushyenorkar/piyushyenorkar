@@ -60,9 +60,9 @@
 <h2 align="center">⚙️ My Tech Arsenal</h2>
 <h3 align="center">🌐 Full Stack Development</h3>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<table width="100%" style="border: none; background-color: transparent;">
+<tr style="border: none;">
+<td width="50%" valign="top" align="center" style="border: none;">
 <b>🎨 Frontend &amp; Web</b><br/><br/>
 <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border: none;">
 <b>🗄️ Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-21262d?style=for-the-badge&logo=express" />
