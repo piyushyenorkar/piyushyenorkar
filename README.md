@@ -126,10 +126,10 @@
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyushyenorkar&amp;bg_color=0d1117&amp;title_color=81c784&amp;text_color=ffffff&amp;icon_color=81c784&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true" width="100%" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyushyenorkar&amp;bg_color=0d1117&amp;title_color=00DFD8&amp;text_color=ffffff&amp;icon_color=00C4CC&amp;ring_color=81c784&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;background=0d1117&amp;stroke=FFD700&amp;ring=FFD700&amp;fire=FFA500&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=81c784&amp;sideLabels=81c784&amp;dates=8b949e&amp;hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyenorkar&amp;background=0d1117&amp;stroke=00DFD8&amp;ring=00C4CC&amp;fire=00DFD8&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00C4CC&amp;sideLabels=00C4CC&amp;dates=8b949e&amp;hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
