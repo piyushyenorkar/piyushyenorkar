@@ -96,7 +96,7 @@
 
 <br/>
 
-<h2 align="center"><img src="./icons/projects.svg" width="32" /> Featured Projects</h2>
+<h2 align="center"><img src="./icons/projects.svg?v=2" width="32" align="center" /> Featured Projects</h2>
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
@@ -121,7 +121,7 @@
 
 <br/>
 
-<h2 align="center"><img src="./icons/analytics.svg" width="32" /> GitHub Analytics</h2>
+<h2 align="center"><img src="./icons/analytics.svg?v=2" width="32" align="center" /> GitHub Analytics</h2>
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
