@@ -169,6 +169,8 @@
         <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio" />
         <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" /><br/><br/>
         <a href="https://safeshell.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+        &nbsp;
+        <a href="https://drive.google.com/file/d/16lBUn2c_zbusLprF86G8pcJWP4JZgf5d/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20APK-%233DDC84?style=for-the-badge&logoColor=black" /></a>
       </div>
     </td>
   </tr>
