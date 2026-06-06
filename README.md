@@ -118,9 +118,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
 <table width="700" align="center">
   <tr>
     <td valign="top" align="center">
@@ -138,9 +135,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
 <table width="700" align="center">
   <tr>
     <td valign="top" align="center">
