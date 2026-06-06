@@ -100,19 +100,60 @@
 
 <h2 align="center"><img src="./icons/projects.svg?v=2" width="30" align="center" /> Featured Projects</h2>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td align="center" valign="top" width="50%" style="border: none;">
-      <h3>🪐 PLUTO</h3>
-      <p><i>An AI-powered campus platform connecting students to opportunities, teams, and events at scale. Built with Team STARCY.</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Integration-00DFD8?style=flat-square&amp;logo=openai&amp;logoColor=white" />
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <div align="left">
+        <h2>🪐 PLUTO</h2>
+        <sup><b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b></sup>
+        <br/><br/>
+        <p>AI-driven campus innovation platform. Centralizes event discovery, peer collaboration, and portfolio building.</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Groq%20AI-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Supabase-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Firebase%20(FCM)-161b22?style=flat" />
+        </p>
+        <br/>
+        <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
     </td>
-    <td align="center" valign="top" width="50%" style="border: none;">
-      <h3>🎨 Canvas & Code</h3>
-      <p><i>Blending my passion for art and technology. A showcase of my award-winning sketches and digital designs.</i></p>
-      <img src="https://img.shields.io/badge/Design-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/Creativity-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white" />
+    <td valign="top" width="50%">
+      <div align="left">
+        <h2>🛡️ SafeShell</h2>
+        <sup><b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b></sup>
+        <br/><br/>
+        <p>A smart safety platform providing real-time support, risk detection, and instant connectivity for personal security.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/LumaAI%20/%20GroqAI%20/%20Leaflet-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Twilio-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Next.js-161b22?style=flat" />
+        </p>
+        <br/>
+        <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="left">
+        <h2>🌊 FlowMind</h2>
+        <sup><b>AI PROJECT MANAGER</b></sup>
+        <br/><br/>
+        <p>FlowMind is an AI project manager that learns your team and predicts failures before they happen.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Hindsight-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/GroqAI-161b22?style=flat" />
+          <img src="https://img.shields.io/badge/Supabase-161b22?style=flat" />
+        </p>
+        <br/>
+        <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <!-- Space reserved for future project -->
     </td>
   </tr>
 </table>
