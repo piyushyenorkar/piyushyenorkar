@@ -107,7 +107,8 @@
         <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> Pluto Campus</h2>
         <b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b><br/><br/>
         AI-driven campus innovation platform. Centralizes event discovery, peer collaboration, and portfolio building.<br/><br/>
-        <img src="https://img.shields.io/badge/-HTML%2FCSS%2FJS-21262d?style=for-the-badge&logo=html5" />
+        <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-TypeScript-21262d?style=for-the-badge&logo=typescript" />
         <img src="https://img.shields.io/badge/-Groq%20AI-21262d?style=for-the-badge&logo=openai" />
         <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" />
         <img src="https://img.shields.io/badge/-Firebase%20(FCM)-21262d?style=for-the-badge&logo=firebase" /><br/><br/>
