@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Education</kbd></td>
-<td valign="top">2nd Year Comps</td>
+<td valign="top">3rd Year Computer Engineering</td>
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>College</kbd></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td valign="top" align="center"><kbd>Focus</kbd></td>
-<td valign="top">Full-Stack Machine Learning &amp; AI Developer</td>
+<td valign="top">Full-Stack, Machine Learning &amp; AI Developer</td>
 </tr>
 </table>
 </div>
