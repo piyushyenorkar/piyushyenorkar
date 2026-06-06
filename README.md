@@ -102,9 +102,9 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       <div align="left">
-        <h2><img src="./pluto.png" height="30" align="absmiddle" /> PLUTO</h2>
+        <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> PLUTO</h2>
         <sup><b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b></sup>
         <br/><br/>
         <p>AI-driven campus innovation platform. Centralizes event discovery, peer collaboration, and portfolio building.</p>
@@ -118,9 +118,16 @@
         <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
       </div>
     </td>
-    <td valign="top" width="50%">
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="100%">
       <div align="left">
-        <h2><img src="./safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
+        <h2><img src="./assets/safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
         <sup><b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b></sup>
         <br/><br/>
         <p>A smart safety platform providing real-time support, risk detection, and instant connectivity for personal security.</p>
@@ -135,10 +142,15 @@
       </div>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       <div align="left">
-        <h2><img src="./flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
+        <h2><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <sup><b>AI PROJECT MANAGER</b></sup>
         <br/><br/>
         <p>FlowMind is an AI project manager that learns your team and predicts failures before they happen.</p>
@@ -151,9 +163,6 @@
         <br/>
         <a href="#"><img src="https://img.shields.io/badge/PREVIEW-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
       </div>
-    </td>
-    <td valign="top" width="50%">
-      <!-- Space reserved for future project -->
     </td>
   </tr>
 </table>
