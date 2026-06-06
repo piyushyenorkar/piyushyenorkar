@@ -58,26 +58,20 @@
 
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
-
 <b>🎨 Frontend &amp; Web</b><br/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-React-000000?style=plastic&logo=react" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=javascript" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=html5" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=css3" height="42" />
-
-<br/>
-
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3" />
+<br/><br/>
 <b>🗄️ Backend &amp; Data</b><br/>
-<img src="https://img.shields.io/badge/-Node.js-000000?style=plastic&logo=node.js" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql" height="42" />
-
-<br/>
-
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql" />
+<br/><br/>
 <b>🧠 AI &amp; Machine Learning</b><br/>
-<img src="https://img.shields.io/badge/-Python-000000?style=plastic&logo=python" height="42" />&nbsp;
-<img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=plastic&logo=scikit-learn" height="42" />
-
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" />&nbsp;
+<img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn" />
 </div>
 
 ---
