@@ -100,10 +100,11 @@
 
 <h2 align="center"><img src="./icons/projects.svg?v=2" width="30" align="center" /> Featured Projects</h2>
 
-<table width="600" align="center">
+<table width="700" align="center">
   <tr>
     <td valign="top" align="center">
       <div align="center">
+        <img src="./assets/spacer.svg" width="700" height="1" />
         <h2><img src="./assets/pluto.png" height="30" align="absmiddle" /> Pluto Campus</h2>
         <b>AI-DRIVEN CAMPUS INNOVATION PLATFORM</b><br/><br/>
         AI-driven campus innovation platform. Centralizes event discovery, peer collaboration, and portfolio building.<br/><br/>
@@ -120,10 +121,11 @@
 
 <br/>
 
-<table width="600" align="center">
+<table width="700" align="center">
   <tr>
     <td valign="top" align="center">
       <div align="center">
+        <img src="./assets/spacer.svg" width="700" height="1" />
         <h2><img src="./assets/safeshell.jpeg" height="30" align="absmiddle" /> SafeShell</h2>
         <b>SECURITY &amp; EMERGENCY RESPONSE SYSTEM FOR WOMEN</b><br/><br/>
         A smart safety platform providing real-time support, risk detection, and instant connectivity for personal security.<br/><br/>
@@ -139,10 +141,11 @@
 
 <br/>
 
-<table width="600" align="center">
+<table width="700" align="center">
   <tr>
     <td valign="top" align="center">
       <div align="center">
+        <img src="./assets/spacer.svg" width="700" height="1" />
         <h2><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team and predicts failures before they happen.<br/><br/>
