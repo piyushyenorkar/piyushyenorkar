@@ -125,18 +125,15 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
-        <h2><img src="./assets/NHAIFaceID.png" height="30" align="absmiddle" /> NHAIFaceID SDK</h2>
-        <b>OFFLINE FACIAL RECOGNITION &amp; LIVENESS DETECTION SDK FOR NHAI DATALAKE 3.0</b><br/><br/>
-        An offline facial recognition &amp; liveness detection SDK for NHAI field personnel,<br/>authenticating identities in zero-network zones in under 400ms on any mid-range Android device.<br/><br/>
-        <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
-        <img src="https://img.shields.io/badge/-TensorFlow%20Lite-21262d?style=for-the-badge&logo=tensorflow" />
-        <img src="https://img.shields.io/badge/-SQLite-21262d?style=for-the-badge&logo=sqlite" /><br/><br/>
-        <a href="https://github.com/piyushyenorkar/NHAIFaceID" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp;
-        <a href="https://drive.google.com/drive/folders/1MVQ6WoE2i6ZTp-UetKztP7zJL0PlNaOj?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DRIVE-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
-        &nbsp;
-        <a href="https://drive.google.com/file/d/1MR1tMub6dR4r21eTv1L24Khis-28H1-C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20APK-%233DDC84?style=for-the-badge&logoColor=black" /></a>
+        <h2><img src="./assets/MAX.png" height="30" align="absmiddle" /> MAX</h2>
+        <b>VOICE-CONTROLLED AI FOR DESKTOP AUTOMATION</b><br/><br/>
+        A lightning-fast desktop assistant that translates natural language into 80+ PC actions.<br/>It seamlessly automates your daily workflows natively on your machine.<br/><br/>
+        <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/-GroqAI%20%2F%20Llama%203.3-21262d?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tkinter-21262d?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/-Faster--Whisper-21262d?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PyAutoGUI-21262d?style=for-the-badge&logo=python" /><br/><br/>
+        <a href="https://github.com/piyushyenorkar/MAX" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
     </td>
   </tr>
@@ -184,15 +181,18 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
-        <h2><img src="./assets/MAX.png" height="30" align="absmiddle" /> MAX</h2>
-        <b>VOICE-CONTROLLED AI FOR DESKTOP AUTOMATION</b><br/><br/>
-        A lightning-fast desktop assistant that translates natural language into 80+ PC actions.<br/>It seamlessly automates your daily workflows natively on your machine.<br/><br/>
-        <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/-GroqAI%20%2F%20Llama%203.3-21262d?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Tkinter-21262d?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/-Faster--Whisper-21262d?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PyAutoGUI-21262d?style=for-the-badge&logo=python" /><br/><br/>
-        <a href="https://github.com/piyushyenorkar/MAX" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <h2><img src="./assets/NHAIFaceID.png" height="30" align="absmiddle" /> NHAIFaceID SDK</h2>
+        <b>OFFLINE FACIAL RECOGNITION &amp; LIVENESS DETECTION SDK FOR NHAI DATALAKE 3.0</b><br/><br/>
+        An offline facial recognition &amp; liveness detection SDK for NHAI field personnel,<br/>authenticating identities in zero-network zones in under 400ms on any mid-range Android device.<br/><br/>
+        <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
+        <img src="https://img.shields.io/badge/-TensorFlow%20Lite-21262d?style=for-the-badge&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/-SQLite-21262d?style=for-the-badge&logo=sqlite" /><br/><br/>
+        <a href="https://github.com/piyushyenorkar/NHAIFaceID" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        &nbsp;
+        <a href="https://drive.google.com/drive/folders/1MVQ6WoE2i6ZTp-UetKztP7zJL0PlNaOj?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DRIVE-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+        &nbsp;
+        <a href="https://drive.google.com/file/d/1MR1tMub6dR4r21eTv1L24Khis-28H1-C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20APK-%233DDC84?style=for-the-badge&logoColor=black" /></a>
       </div>
     </td>
   </tr>
