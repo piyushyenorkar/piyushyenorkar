@@ -62,33 +62,27 @@
 
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
+<br/>
 
-<table width="100%">
-<tr>
-<td width="300" align="right" valign="middle"><b>🎨 Frontend &amp; Web</b></td>
-<td width="500" valign="middle">
-  <img src="https://img.shields.io/badge/-Next.js-DAB4E5?style=flat&logo=next.js&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-React-AEC6CF?style=flat&logo=react&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-JavaScript-FDFD96?style=flat&logo=javascript&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-HTML5-FFB6C1?style=flat&logo=html5&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-CSS3-87CEEB?style=flat&logo=css3&logoColor=333333" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🗄️ Backend &amp; Data</b></td>
-<td valign="middle">
-  <img src="https://img.shields.io/badge/-Node.js-B4E5A2?style=flat&logo=node.js&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-SQL-AEC6CF?style=flat&logo=mysql&logoColor=333333" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>🧠 AI &amp; Machine Learning</b></td>
-<td valign="middle">
-  <img src="https://img.shields.io/badge/-Python-FFD1A9?style=flat&logo=python&logoColor=333333" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-DAB4E5?style=flat&logo=scikit-learn&logoColor=333333" />
-</td>
-</tr>
-</table>
+<b>🎨 Frontend &amp; Web</b><br/><br/>
+<img src="https://img.shields.io/badge/-Next.js-00000000?style=flat&logo=next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-React-00000000?style=flat&logo=react" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-00000000?style=flat&logo=javascript" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-00000000?style=flat&logo=html5" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-00000000?style=flat&logo=css3" />
+
+<br/><br/>
+
+<b>🗄️ Backend &amp; Data</b><br/><br/>
+<img src="https://img.shields.io/badge/-Node.js-00000000?style=flat&logo=node.js" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-00000000?style=flat&logo=mysql" />
+
+<br/><br/>
+
+<b>🧠 AI &amp; Machine Learning</b><br/><br/>
+<img src="https://img.shields.io/badge/-Python-00000000?style=flat&logo=python" />&nbsp;
+<img src="https://img.shields.io/badge/-Machine%20Learning-00000000?style=flat&logo=scikit-learn" />
+
 </div>
 
 ---
