@@ -86,8 +86,7 @@
 <br/>
 
 <b>🧠 AI &amp; Machine Learning</b><br/><br/>
-
-<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />&nbsp;
+<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
 </div>
 
