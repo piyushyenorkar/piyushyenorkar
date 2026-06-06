@@ -112,7 +112,7 @@
         <img src="https://img.shields.io/badge/-TypeScript-21262d?style=for-the-badge&logo=typescript" />
         <img src="https://img.shields.io/badge/-Groq%20AI-21262d?style=for-the-badge&logo=openai" />
         <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" />
-        <img src="https://img.shields.io/badge/-Firebase%20(FCM)-21262d?style=for-the-badge&logo=firebase" /><br/><br/>
+        <img src="https://img.shields.io/badge/-Firebase%20(FCM)-21262d?style=for-the-badge&logo=firebase&logoColor=white" /><br/><br/>
         <a href="https://plutocampus.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
         &nbsp;
         <a href="#"><img src="https://img.shields.io/badge/DOWNLOAD%20APK-%233DDC84?style=for-the-badge&logoColor=black" /></a>
@@ -148,7 +148,7 @@
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team<br/>and predicts failures before they happen.<br/><br/>
         <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/-Hindsight-21262d?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-Hindsight-21262d?style=for-the-badge&logo=hindsight&logoColor=white" />
         <img src="https://img.shields.io/badge/-GroqAI-21262d?style=for-the-badge&logo=openai" />
         <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" /><br/><br/>
         <a href="https://github.com/piyushyenorkar/FlowMind" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -168,7 +168,7 @@
         A smart safety platform providing real-time support,<br/>risk detection, and instant connectivity for personal security.<br/><br/>
         <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/-LumaAI%20%2F%20GroqAI%20%2F%20Leaflet-21262d?style=for-the-badge&logo=leaflet" />
-        <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio" />
+        <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio&logoColor=white" />
         <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" /><br/><br/>
         <a href="https://safeshell.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
         &nbsp;
