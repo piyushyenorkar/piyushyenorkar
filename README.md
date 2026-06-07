@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
 
-<br/><br/>
+<br/>
 
 <b><img src="./icons/backend.svg?v=3" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
@@ -84,13 +84,13 @@
 
 <br/>
 
-<h3 align="center"><img src="./icons/aiml.svg?v=2" width="32" align="absmiddle" /> AI &amp; Machine Learning</h3>
-<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
+<b><img src="./icons/aiml.svg?v=2" width="24" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
+<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
 
-<br/><br/>
+<br/>
 
-<h3 align="center"><img src="./icons/mobile.svg?v=2" width="32" align="absmiddle" /> App Development</h3>
+<b><img src="./icons/mobile.svg?v=2" width="24" align="absmiddle" /> App Development</b><br/><br/>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/-Android-21262d?style=for-the-badge&logo=android" /><br/>
