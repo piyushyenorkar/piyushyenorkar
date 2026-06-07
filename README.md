@@ -113,7 +113,7 @@
 
 <h2 align="center"><img src="./icons/projects.svg?v=2" width="30" align="center" /> Featured Projects</h2>
 
-<table width="750" align="center">
+<table width="750" align="center" style="background-color: rgba(128, 128, 128, 0.05);">
   <tr>
     <td valign="top" align="center">
       <div align="center">
@@ -133,7 +133,7 @@
     </td>
   </tr>
 </table>
-<table width="750" align="center">
+<table width="750" align="center" style="background-color: rgba(128, 128, 128, 0.05);">
   <tr>
     <td valign="top" align="center">
       <div align="center">
@@ -151,7 +151,7 @@
     </td>
   </tr>
 </table>
-<table width="750" align="center">
+<table width="750" align="center" style="background-color: rgba(128, 128, 128, 0.05);">
   <tr>
     <td valign="top" align="center">
       <div align="center">
@@ -170,7 +170,7 @@
     </td>
   </tr>
 </table>
-<table width="750" align="center">
+<table width="750" align="center" style="background-color: rgba(128, 128, 128, 0.05);">
   <tr>
     <td valign="top" align="center">
       <div align="center">
@@ -190,7 +190,7 @@
     </td>
   </tr>
 </table>
-<table width="750" align="center">
+<table width="750" align="center" style="background-color: rgba(128, 128, 128, 0.05);">
   <tr>
     <td valign="top" align="center">
       <div align="center">
