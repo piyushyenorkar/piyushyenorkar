@@ -102,6 +102,7 @@
 <img src="https://img.shields.io/badge/-TensorFlow%20Lite-21262d?style=for-the-badge&logo=tensorflow" />
 <img src="https://img.shields.io/badge/-SQLite-21262d?style=for-the-badge&logo=sqlite" />
 <img src="https://img.shields.io/badge/-Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/-Capacitor-21262d?style=for-the-badge&logo=capacitor" />
 </div>
 
 ---
