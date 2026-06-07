@@ -64,9 +64,6 @@
 <h2 align="center">⚙️ My Tech Arsenal</h2>
 <h3 align="center"><img src="./icons/fullstack.svg?v=4" width="32" align="absmiddle" /> Full Stack Development</h3>
 
-<table width="100%" style="border: none; background-color: transparent;">
-<tr style="border: none;">
-<td width="50%" valign="top" align="center" style="border: none;">
 <b><img src="./icons/frontend.svg?v=2" width="24" align="absmiddle" /> Frontend &amp; Web</b><br/><br/>
 <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
@@ -75,35 +72,24 @@
 <img src="https://img.shields.io/badge/-JavaScript-21262d?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
-</td>
-<td width="50%" valign="top" align="center" style="border: none;">
+
+<br/><br/>
+
 <b><img src="./icons/backend.svg?v=3" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-21262d?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/-PostgreSQL-21262d?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" />
 <img src="https://img.shields.io/badge/-SQL-21262d?style=for-the-badge&logo=mysql" />
-</td>
-</tr>
-</table>
 
-<br/>
+<br/><br/>
 
-<table width="100%" style="border: none; background-color: transparent;">
-<tr style="border: none;">
-<td valign="top" align="center" style="border: none;">
 <b><img src="./icons/aiml.svg?v=2" width="24" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
 <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
-</td>
-</tr>
-</table>
 
-<br/>
+<br/><br/>
 
-<table width="100%" style="border: none; background-color: transparent;">
-<tr style="border: none;">
-<td valign="top" align="center" style="border: none;">
 <b><img src="./icons/mobile.svg?v=2" width="24" align="absmiddle" /> App Development</b><br/><br/>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
@@ -111,9 +97,6 @@
 <img src="https://img.shields.io/badge/-TensorFlow%20Lite-21262d?style=for-the-badge&logo=tensorflow" />
 <img src="https://img.shields.io/badge/-SQLite-21262d?style=for-the-badge&logo=sqlite" />
 <img src="https://img.shields.io/badge/-Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=white" />
-</td>
-</tr>
-</table>
 </div>
 
 ---
