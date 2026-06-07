@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
 
-<br/><br/>
+<br/>
 
 <b><img src="./icons/mobile.svg" width="24" align="absmiddle" /> App Development</b><br/><br/>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
