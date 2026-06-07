@@ -195,7 +195,7 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
-        <h2><img src="./assets/NHAIFaceID.png" height="30" align="absmiddle" /> NHAIFaceID SDK</h2>
+        <h2><img src="./assets/spacer.svg" width="256" height="1" align="left" /><img src="https://img.shields.io/badge/🏆%20NHAI%20Hackathon%207.0-1st%20Prize-FFD700?style=for-the-badge&labelColor=21262d" align="right" /><img src="./assets/NHAIFaceID.png" height="30" align="absmiddle" /> NHAIFaceID SDK</h2>
         <b>OFFLINE FACIAL RECOGNITION &amp; LIVENESS DETECTION SDK FOR NHAI DATALAKE 3.0</b><br/><br/>
         An offline facial recognition &amp; liveness detection SDK for NHAI field personnel,<br/>authenticating identities in zero-network zones in under 400ms on any mid-range Android device.<br/><br/>
         <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
