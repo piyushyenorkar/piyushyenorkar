@@ -95,7 +95,7 @@
 
 <br/>
 
-<b><img src="./icons/mobile.svg" width="24" align="absmiddle" /> App Development</b><br/><br/>
+<b><img src="./icons/mobile.svg?v=2" width="24" align="absmiddle" /> App Development</b><br/><br/>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/-Kotlin-21262d?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/-Android-21262d?style=for-the-badge&logo=android" /><br/>
