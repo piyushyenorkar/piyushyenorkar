@@ -181,7 +181,8 @@
         <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/-LumaAI%20%2F%20GroqAI%20%2F%20Leaflet-21262d?style=for-the-badge&logo=leaflet" />
         <img src="https://img.shields.io/badge/-Twilio-21262d?style=for-the-badge&logo=twilio&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" />
+        <img src="https://img.shields.io/badge/-Vite-21262d?style=for-the-badge&logo=vite" />
+        <img src="https://img.shields.io/badge/-Polygon-21262d?style=for-the-badge&logo=polygon" />
         <img src="https://img.shields.io/badge/-Capacitor-21262d?style=for-the-badge&logo=capacitor" /><br/><br/>
         <a href="https://github.com/piyushyenorkar/safeshell" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
