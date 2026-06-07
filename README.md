@@ -82,13 +82,9 @@
 <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" />
 <img src="https://img.shields.io/badge/-SQL-21262d?style=for-the-badge&logo=mysql" />
 
-<br/>
-
 <h3 align="center"><img src="./icons/aiml.svg?v=2" width="32" align="absmiddle" /> AI &amp; Machine Learning</h3>
 <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
-
-<br/>
 
 <h3 align="center"><img src="./icons/mobile.svg?v=2" width="32" align="absmiddle" /> App Development</h3>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
