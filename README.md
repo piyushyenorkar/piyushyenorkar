@@ -156,7 +156,7 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
-        <h2><img src="https://img.shields.io/badge/🏆%20Axion%20Hackathon-1st%20Prize-FFD700?style=for-the-badge&labelColor=21262d" align="right" /><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
+        <h2><img src="./assets/spacer.svg" width="236" height="1" align="left" /><img src="https://img.shields.io/badge/🏆%20Axion%20Hackathon-1st%20Prize-FFD700?style=for-the-badge&labelColor=21262d" align="right" /><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team<br/>and predicts failures before they happen.<br/><br/>
         <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
