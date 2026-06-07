@@ -90,8 +90,10 @@
 <br/>
 
 <b><img src="./icons/aiml.svg?v=2" width="24" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
-<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" /><br/>
+<img src="https://img.shields.io/badge/-TensorFlow-21262d?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/-Pandas-21262d?style=for-the-badge&logo=pandas&logoColor=white" />
 
 <br/>
 
