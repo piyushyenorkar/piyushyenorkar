@@ -68,27 +68,27 @@
 <img src="https://img.shields.io/badge/-Next.js-21262d?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/-Vite-21262d?style=for-the-badge&logo=vite" />
-<img src="https://img.shields.io/badge/-Three.js-21262d?style=for-the-badge&logo=three.js" />
+<img src="https://img.shields.io/badge/-Three.js-21262d?style=for-the-badge&logo=three.js" /><br/>
 <img src="https://img.shields.io/badge/-JavaScript-21262d?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3" />
 
-<br/><br/>
+<br/>
 
 <b><img src="./icons/backend.svg?v=3" width="24" align="absmiddle" /> Backend &amp; Data</b><br/><br/>
 <img src="https://img.shields.io/badge/-Node.js-21262d?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-21262d?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/-PostgreSQL-21262d?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/-PostgreSQL-21262d?style=for-the-badge&logo=postgresql" /><br/>
 <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" />
 <img src="https://img.shields.io/badge/-SQL-21262d?style=for-the-badge&logo=mysql" />
 
-<br/><br/>
+<br/>
 
 <b><img src="./icons/aiml.svg?v=2" width="24" align="absmiddle" /> AI &amp; Machine Learning</b><br/><br/>
 <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" /><br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=for-the-badge&logo=scikit-learn" />
 
-<br/><br/>
+<br/>
 
 <b><img src="./icons/mobile.svg?v=2" width="24" align="absmiddle" /> App Development</b><br/><br/>
 <img src="https://img.shields.io/badge/-React%20Native-21262d?style=for-the-badge&logo=react" />
