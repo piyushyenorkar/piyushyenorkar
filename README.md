@@ -62,7 +62,7 @@
 
 <div align="center">
 <h2 align="center">⚙️ My Tech Arsenal</h2>
-<h3 align="center"><img src="./icons/fullstack.svg?v=3" width="32" align="absmiddle" /> Full Stack Development</h3>
+<h3 align="center"><img src="./icons/fullstack.svg?v=4" width="32" align="absmiddle" /> Full Stack Development</h3>
 
 <table width="100%" style="border: none; background-color: transparent;">
 <tr style="border: none;">
