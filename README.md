@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=75&duration=1&pause=10000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Piyush+Yenorkar" alt="Piyush Yenorkar" />
-</h1>
+<!-- Waving Header (Dark to Light Green) -->
+<a href="https://piyushyenorkar.vercel.app" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b5e20,100:81c784&amp;height=200&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Developer%20%7C%20Artist%20%7C%20Innovator&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+</a>
 
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Full+Stack+Engineer;AI+Developer;Creative+Technologist;Building+Ed-Tech+Solutions" alt="Typing SVG" />
