@@ -2,7 +2,7 @@
 
 <!-- Waving Header (Dark to Light Green) -->
 <a href="https://piyushyenorkar.vercel.app" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b5e20,100:81c784&amp;height=200&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Developer%20%7C%20Artist%20%7C%20Innovator&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b5e20,100:81c784&amp;height=200&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=75&amp;fontColor=ffffff&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=fadeIn&amp;fontFamily=Great%20Vibes,cursive" width="100%"/>
 </a>
 
 <!-- Typing Effect -->
