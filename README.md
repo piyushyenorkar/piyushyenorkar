@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="./assets/name.svg" alt="Piyush Yenorkar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=75&duration=1&pause=10000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Piyush+Yenorkar" alt="Piyush Yenorkar" />
 </h1>
 
 <!-- Typing Effect -->
