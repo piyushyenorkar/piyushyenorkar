@@ -2,7 +2,7 @@
 
 <!-- Waving Header (Dark to Light Green) -->
 <a href="https://piyushyenorkar.vercel.app" target="_blank">
-  <img src="./assets/header_combined.svg" width="100%" alt="Piyush Yenorkar" />
+  <img src="./assets/header_combined.svg?v=3" width="100%" alt="Piyush Yenorkar" />
 </a>
 
 <!-- Typing Effect -->
