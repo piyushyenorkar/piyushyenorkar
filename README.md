@@ -2,7 +2,7 @@
 
 <!-- Waving Header (Dark to Light Green) -->
 <a href="https://piyushyenorkar.vercel.app" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b5e20,100:81c784&amp;height=280&amp;section=header&amp;text=Piyush%20Yenorkar&amp;fontSize=85&amp;fontColor=ffffff&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=fadeIn&amp;fontFamily=Great%20Vibes,cursive" width="100%"/>
+  <img src="./assets/header_combined.svg" width="100%" alt="Piyush Yenorkar" />
 </a>
 
 <!-- Typing Effect -->
