@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1 align="center"><em>Piyush Yenorkar</em></h1>
-<p align="center"><b>Developer | Artist | Innovator</b></p>
+<h1 align="center">
+  <img src="./assets/name.svg" alt="Piyush Yenorkar" />
+</h1>
 
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Full+Stack+Engineer;AI+Developer;Creative+Technologist;Building+Ed-Tech+Solutions" alt="Typing SVG" />
