@@ -165,7 +165,7 @@
         <img src="https://img.shields.io/badge/-Supabase-21262d?style=for-the-badge&logo=supabase" /><br/><br/>
         <a href="https://github.com/piyushyenorkar/FlowMind" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
-        <a href="https://flowmindprojectai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+        <a href="https://flowwithmind.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
       </div>
     </td>
   </tr>
