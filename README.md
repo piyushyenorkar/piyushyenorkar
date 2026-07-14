@@ -138,24 +138,6 @@
     <td valign="top" align="center">
       <div align="center">
         <img src="./assets/spacer.svg" width="750" height="1" />
-        <h2><img src="./assets/MAX.png" height="30" align="absmiddle" /> MAX</h2>
-        <b>VOICE-CONTROLLED AI FOR DESKTOP AUTOMATION</b><br/><br/>
-        A lightning-fast desktop assistant that translates natural language into 80+ PC actions.<br/>It seamlessly automates your daily workflows natively on your machine.<br/><br/>
-        <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/-GroqAI%20%2F%20Llama%203.3-21262d?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Tkinter-21262d?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/-Faster--Whisper-21262d?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PyAutoGUI-21262d?style=for-the-badge&logo=python" /><br/><br/>
-        <a href="https://github.com/piyushyenorkar/MAX" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-<table width="750" align="center">
-  <tr>
-    <td valign="top" align="center">
-      <div align="center">
-        <img src="./assets/spacer.svg" width="750" height="1" />
         <h2><img src="./assets/spacer.svg" width="236" height="1" align="left" /><img src="https://img.shields.io/badge/🏆%20Axion%20Hackathon-1st%20Prize-FFD700?style=for-the-badge&labelColor=21262d" align="right" /><img src="./assets/flowmind.png" height="30" align="absmiddle" /> FlowMind</h2>
         <b>AI PROJECT MANAGER</b><br/><br/>
         FlowMind is an AI project manager that learns your team<br/>and predicts failures before they happen.<br/><br/>
@@ -166,6 +148,24 @@
         <a href="https://github.com/piyushyenorkar/FlowMind" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp;
         <a href="https://flowwithmind.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+<table width="750" align="center">
+  <tr>
+    <td valign="top" align="center">
+      <div align="center">
+        <img src="./assets/spacer.svg" width="750" height="1" />
+        <h2><img src="./assets/MAX.png" height="30" align="absmiddle" /> MAX</h2>
+        <b>VOICE-CONTROLLED AI FOR DESKTOP AUTOMATION</b><br/><br/>
+        A lightning-fast desktop assistant that translates natural language into 80+ PC actions.<br/>It seamlessly automates your daily workflows natively on your machine.<br/><br/>
+        <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/-GroqAI%20%2F%20Llama%203.3-21262d?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tkinter-21262d?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/-Faster--Whisper-21262d?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PyAutoGUI-21262d?style=for-the-badge&logo=python" /><br/><br/>
+        <a href="https://github.com/piyushyenorkar/MAX" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </div>
     </td>
   </tr>
