@@ -11,11 +11,11 @@
 <br/>
 
 <div>
-  <a href="mailto:fake@example.com"><img src="./icons/email.svg" width="40" height="40" alt="Email" /></a>
+  <a href="mailto:piyushyenorkar1@gmail.com"><img src="./icons/email.svg" width="40" height="40" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/fakeprofile"><img src="./icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/piyush-yenorkar-4366a8278/"><img src="./icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/fakeprofile"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
+  <a href="https://x.com/PYenorkar69030"><img src="./icons/x.svg" width="40" height="40" alt="X" /></a>
 </div>
 ----------------------------------
 <div align="center">
@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/badge/-Firebase%20(FCM)-21262d?style=for-the-badge&logo=firebase&logoColor=white" /><br/><br/>
         <a href="https://plutocampus.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
         &nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/DOWNLOAD%20APK-%233DDC84?style=for-the-badge&logoColor=black" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.pluto_app" target="_blank"><img src="https://img.shields.io/badge/GET_IT_ON_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
       </div>
     </td>
   </tr>
