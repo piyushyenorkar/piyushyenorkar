@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/badge/-Firebase%20(FCM)-21262d?style=for-the-badge&logo=firebase&logoColor=white" /><br/><br/>
         <a href="https://plutocampus.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PREVIEW%20WEB-%2300DFD8?style=for-the-badge&logoColor=black" /></a>
         &nbsp;
-        <a href="https://play.google.com/store/apps/details?id=com.pluto_app" target="_blank"><img src="https://img.shields.io/badge/GET_IT_ON_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.pluto_app" target="_blank"><img src="https://img.shields.io/badge/GET_IT_ON_Google_Play-414141?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzQxNDE0MScgZD0nTTAgMGgyNHYyNEgweicgb3BhY2l0eT0nMCcvPjxwYXRoIGZpbGw9JyMwMGQzYTUnIGQ9J00yLjEgMi40bDEyLjkgMTIuOC0zLjIgMy4yTDIuMSAyMS42VjIuNHonLz48cGF0aCBmaWxsPScjMDBhNWZmJyBkPSdNMTUgMTUuMmwzLjQtMy4yLTE2LjMtOS43IDEyLjkgMTIuOXonLz48cGF0aCBmaWxsPScjZmZkNTAwJyBkPSdNMi4xIDIxLjZsMTYuMy05LjctMy40LTMuMkwyLjEgMjEuNnonLz48cGF0aCBmaWxsPScjZmYzZDAwJyBkPSdNMTguNCAxMmwzLjctMi4xYy45LS41LjktMS45IDAtMi40bC0zLjctMi4xLTMuNCAzLjIgMy40IDMuNHonLz48L3N2Zz4%3D" /></a>
       </div>
     </td>
   </tr>
